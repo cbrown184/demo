@@ -9,9 +9,9 @@ Click connect with default test details
 ![login details](https://github.com/cbrown184/demo/blob/master/loginDetails.png?raw=true)
 
 
-![select example](https://github.com/cbrown184/demo/blob/master/loginDetails.png?raw=true)
+![select example](https://github.com/cbrown184/demo/blob/master/selectExample.png?raw=true)
 
 
-ID  	ALERT  	HOST  	TIME_DIFFERENCE ▼	TYPE  
-scsmbstgra	FALSE	12345	3	APPLICATION_LOG
-scsmbstgrd	TRUE	12345	8
+![table example](https://github.com/cbrown184/demo/blob/master/table.png?raw=true)
+
+
